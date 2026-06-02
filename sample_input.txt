@@ -1,0 +1,23 @@
+QUESTION NUMBER: 71
+EXAM: AILET
+YEAR: 2018
+SECTION: LR
+TOPIC: Tort Law
+
+PASSAGE:
+Legal Principle:
+1. A person is liable for his negligence when he owed a duty of care to others and commits a breach of that duty causing injury thereby.
+2. Volenti non fit injuria is a defence to negligence.
+
+Factual Situation: Anil and his wife, Reena, were in a shop as customers, where a skylight in the roof of the shop was broken, owing to the negligence of the contractors engaged in repairing the roof, and a portion of the glass fell and struck Anil causing him a severe shock. Reena, who was standing close to him, was not touched by the falling glass, but, reasonably believing her husband to be in danger, she instinctively clutched his arm, and tried to pull him from the spot. In doing this, she strained her leg in such a way as to bring about a recurrence of thrombosis.
+
+QUESTION:
+The defence of volenti non fit injuria:
+
+OPTIONS:
+A. is available in respect of husband
+B. is available in respect of wife
+C. is available in respect of both husband and wife
+D. is not available in respect of both husband and wife
+
+CORRECT ANSWER: D

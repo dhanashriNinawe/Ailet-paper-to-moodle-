@@ -1,0 +1,1457 @@
+<quiz>
+
+  <!-- Q71 -->
+  <question type="multichoice">
+    <name><text>Q071</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Legal Principle:<br>
+1. A person is liable for his negligence when he owed a duty of care to others and commits a breach of that duty causing injury thereby.<br>
+2. Volenti non fit injuria is defence to negligence.<br><br>
+Factual Situation: Anil and his wife, Reena, were in a shop as customers, where a skylight in the roof of the shop was broken, owing to the negligence of the contractors engaged in repairing the roof, and a portion of the glass fell and struck Anil causing him a severe shock. Reena, who was standing close to him, was not touched by the falling glass, but, reasonably believing her husband to be in danger, she instinctively clutched his arm, and tried to pull him from the spot. In doing this, she strained her leg in such a way as to bring about a recurrence of thrombosis. Anil and Reena are claiming compensation for their injuries which were caused due to the negligence of the shop owners. The shop owners are denying liability on the grounds of volenti non fit injuria. The defence of volenti non fit injuria:<br>
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The defence of volenti non fit injuria is not applicable as neither Anil nor Reena voluntarily consented to the risk posed by the falling glass. They were unaware of the danger and could not have foreseen the harm.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[is available in respect of husband]]></text>
+      <feedback><text>Incorrect. Anil did not knowingly consent to the risk posed by the broken skylight.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[is available in respect of wife]]></text>
+      <feedback><text>Incorrect. Reena acted instinctively and was unaware of the danger posed by the broken glass.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[is available in respect of both husband and wife]]></text>
+      <feedback><text>Incorrect. The defence of volenti non fit injuria does not apply as there was no voluntary assumption of risk by either.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[is not available in respect of both husband and wife]]></text>
+      <feedback><text>Correct. Neither party willingly accepted the risk of injury from the negligent repairs.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Tort Law</text></tag>
+    </tags>
+  </question>
+  
+   <!-- Q72 -->
+  <question type="multichoice">
+    <name>
+      <text>Q072</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+Directions (Q. 72-Q. 73): Apply the legal principles to the facts given below and select the most appropriate answer.<br><br>
+Legal Principles:<br>
+1. Private nuisance is a continuous, unlawful and indirect interference with the use or enjoyment of land, or of some right over or in connection with it.<br>
+2. The person who for his own purposes brings on his lands and collects and keeps there anything likely to do mischief if it escapes, must keep it at his peril, and, if he does not do so, is prima facie answerable for all the damage which is the natural consequence of its escape.<br>
+3. A person is liable if he can reasonably foresee that his acts would likely to injure his neighbour.<br>
+4. The foreseeability of the type of damage is a pre-requisite of liability in actions of nuisance.<br><br>
+72. Factual Situation: During 2011, a European Directive was issued requiring nations of the European Community to establish standards on the presence of Perchloroethene (PCE) in water, which the Kingsland did in 2013.<br><br>
+Alfa Water Co. purchased a borehole in 2007 to extract water to supply to the public in Kingsland. In 2014, it tested the water to ensure that it met minimum standards for human consumption and discovered that it was contaminated with an organochlorine solvent (PCE). On investigation, it emerged that the solvent seeped into the soil through the building floor of the Light & Soft Leather Tannery, about 3 miles from the borehole that eventually contaminated the Alfa's borehole.<br><br>
+Since the tannery opened in 1910, until 2007, the solvent it used had been delivered in 40-gallon drums which were transported by fork lift truck and then tipped into a sump. Since 2007, solvents had been delivered in bulk and stored in tanks. It was then piped to the tanning machinery. There was no evidence of any spills from the tanks or pipes, and it was concluded that the water had been contaminated by frequent spills under the earlier system. Alfa Water brought a claim against the Tannery on the grounds of nuisance. Whether the Tannery owners are liable?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The damage was not reasonably foreseeable at the time it occurred. The claim is too remote as the connection between the actions and the contamination at the borehole wasn't reasonably predictable.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Yes, the escape of the solvent which contaminated the water is sufficient for making them liable.]]></text>
+      <feedback><text>This overlooks the key issue of foreseeability and remoteness of damage. Liability isn't automatic.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[No, the damage is too remote as it was not possible for the Tannery owners to reasonably foresee a spillage which would eventually lead to contamination of a water borehole so far away.]]></text>
+      <feedback><text>Correct. The Tannery could not reasonably foresee such contamination decades later and miles away.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[No, because Alta Water Co. should have been careful in using good purifying mechanisms to ensure that the water is fit for human consumption. They cannot shift the blame on the Tannery owners.]]></text>
+      <feedback><text>This misplaces the focus from legal liability to preventive duty on the victim.</text></feedback>
+    </answer>
+<answer fraction="-25">
+  <text><![CDATA[Yes, the damage is not remote as it was possible for the Tannery owners to reasonably foresee a spillage which would eventually lead to contamination of a water borehole just 3 miles away.]]></text>
+  <feedback><text><![CDATA[While distance matters, the spills occurred decades earlier under different conditions. Foreseeability is key.]]></text></feedback>
+</answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Tort Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q73 -->
+  <question type="multichoice">
+    <name>
+      <text>Q073</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+Factual Situation: MG Ltd. was constructing Crystal Heights, a posh state-of-the-art tower for commercial and residential purposes, in Gurugram. During construction, hundreds of claimants alleged that, in addition to dust and noise caused by the erection of the building, their television signals had been interrupted by the tower. The claimants, some of whom were absolute owners, and many others who were renting, sued in both negligence and in nuisance for the harm done to their amenity by the loss of their television signals. Whether the respondent's action in causing the appellant's television signals to be interrupted with the construction of their tower could constitute a private nuisance?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The law does not recognise interference with television signals as actionable nuisance. Land enjoyment must be materially impaired by physical effects.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[The interference with the television signal caused by the construction of the tower could not amount to a private nuisance at law. Effective town planning can sort this matter, instead.]]></text>
+      <feedback><text>Correct. Signal loss is not generally actionable under nuisance law.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Yes, the large tower had interrupted their television reception, and caused private nuisance for loss of enjoyment - and remuneration for their wasted television license fee, from the time their signal had been impaired.]]></text>
+      <feedback><text>Incorrect. Legal nuisance requires interference with physical use/enjoyment, not amenities like signals.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[No, it cannot constitute private nuisance but the claimants can claim damages for loss of television signals.]]></text>
+      <feedback><text>Incorrect. Loss of signal is not compensable as a private nuisance.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Yes, the respondent's conduct was unreasonable because the act of building the tower caused impairment of enjoyment of the land.]]></text>
+     <feedback><text><![CDATA[This assumes that signal interference qualifies as impairment of land enjoyment, which it does not.]]></text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Tort Law</text></tag>
+    </tags>
+  </question>
+  
+  <!-- Q74 -->
+  <question type="multichoice">
+    <name>
+      <text>Q074</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+Legal Principle:<br>
+1. Any intentional false communication, either written or spoken, that harms a person's reputation; decreases the respect, regard, or confidence in which a person is held; or induces disparaging, hostile, or disagreeable opinions or feelings against a person.<br>
+2. The statement must tend to lower the claimant in the estimation of right-thinking members of society.<br>
+3. A mere vulgar abuse is not defamation.<br>
+4. Sometimes a statement may not be defamatory on the face of it but contain an innuendo, which has a defamatory meaning.<br>
+5. Defamation encompasses both written statements, known as libel, and spoken statements, called slander.<br><br>
+Factual Situation: In May 2017, a memorial commemorating the women of World War II was vandalized during an anti-government demonstration following the General Election. An offensive political slogan was spray painted across the plinth of the memorial. This act caused public outrage and widespread condemnation.<br><br>
+On Twitter, a political writer, Asha Mehta said that she did not have a problem with the vandalism of the memorial building. Chandna reacted to this negatively, suggesting that Asha should be sent to join Terrorist Organization. Asha's comments and Chandna's reactions both received national media coverage.<br><br>
+A few days later, Chandna published a tweet asking the question "Scrawled on any war memorials recently?" to Anshika Chauhan, another political activist. Anshika Chauhan responded stating that they had never vandalised any memorial building, and moreover had family members serving in the armed forces. Chandna followed with a second tweet, in which she asked if someone could explain the difference between Mehta (an "irritant") and Anshika Chauhan (whom she described as "social anthrax"). Anshika Chauhan asked for a retraction via Twitter and was promptly blocked by Chandna. Anshika Chauhan asked Chandna to make a public apology and claimed compensation for libel alleging that the First Tweet suggested that she had either vandalised a war memorial, which was a criminal act; and the Second Tweet suggested that she approved or condoned that vandalisation. What is the meaning of the Tweets and whether those meanings had defamatory tendency?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Yes, both tweets could be understood by an ordinary reader to convey defamatory meanings, which could damage the reputation of Anshika Chauhan.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[Both the tweets were defamatory to Anshika Chauhan as the hypothetical ordinary reader can be expected to understand defamatory tendency of the tweet in the context of the situation.]]></text>
+      <feedback><text>Correct. The tweets could lower her reputation in the eyes of right-thinking members of society.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Second tweet was not defamatory as it was not referring directly to Anshika Chauhan. So, she cannot claim compensation.]]></text>
+      <feedback><text>Incorrect. The second tweet clearly referenced her and used defamatory language.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Natural and ordinary meaning of the tweets are not defamatory. So, she cannot claim compensation.]]></text>
+      <feedback><text>Incorrect. The implications and innuendo in the tweets are capable of defamatory meaning.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[First tweet was not defamatory because the natural and ordinary meaning of the statement which is conveyed to a hypothetical ordinary reader is not defamatory.]]></text>
+      <feedback><text>Incorrect. The first tweet implies criminal conduct and has a defamatory tone.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Tort Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q75 -->
+  <question type="multichoice">
+    <name>
+      <text>Q075</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+Legal Principle:<br>
+1. An assault is an act which intentionally causes another person to apprehend the infliction of immediate, unlawful force on a person.<br>
+2. A battery consists of an intentional application of force to another person without any lawful justification.<br><br>
+Factual Situation: Jagan was in his car when he was approached by a police officer who told him to move the vehicle. Jagan did so, reversed his car and rolled it on to the foot of the police officer. The officer forcefully told him to move the car off his foot at which point Jagan swore at him and refused to move his vehicle and turned the engine off. Jagan was convicted for assaulting a police officer in the execution of his duty. Is he liable for battery or assault?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Jagan's act became battery when he intentionally refused to move the car despite knowing the officer's foot was underneath, establishing a continual act.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[He is not liable because there cannot be an assault in omitting to act and that driving on to the officer's foot was accidental, meaning that he was lacking mens rea when the act causing damage had occurred.]]></text>
+      <feedback><text>Incorrect. His continued inaction constituted a battery once he knew the officer was injured.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[He is not liable as the act neither amount to an attempt nor a threat to commit a battery that amounts to an actionable tort of assault.]]></text>
+      <feedback><text>Incorrect. It was more than threat—it was an actual application of force.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Jagan's crime was not the refusal to move the car but that of having driven on to the foot of the officer and decided not to cease the act, he had established a continual act of battery.]]></text>
+      <feedback><text>Correct. The continuing nature of the force made it a battery.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[He is neither liable for assault nor battery as he accidently drove his car on the police officer's foot.]]></text>
+      <feedback><text>Incorrect. The battery arises from the refusal to stop the application of force.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Criminal Law</text></tag>
+    </tags>
+  </question>
+  
+   <!-- Q76 -->
+  <question type="multichoice">
+    <name><text>Q076</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Directions (Q. 76-Q. 78): Apply the legal principles to the facts given below and select the most appropriate answer.<br><br>
+Legal Principles:<br>
+1. Consideration is something that moves from the promisee to the promisor, at the implied or express request of the latter, in return for his promise. The item that moves can be a right, interest, profit, loss, responsibility given or suffered, forbearance or a benefit which is of some value in the eyes of law.<br>
+2. An offer may be revoked at any time before the communication of its acceptance is complete as against the proposer, but not afterwards.<br><br>
+76. Factual Situation: The defendant, Mr. Dhawan, wrote to the complainant, Mr. Chaman, with an offer to sell his house to him for ₹8,00,000. He promised that he would keep this offer open to him until Friday. However, on the Thursday Mr. Dhawan accepted an offer from a third party and sold his house. According to Mr. Chaman, he was going to accept this offer but had not said anything to Mr. Dhawan because he understood that he had time until Friday. Mr. Dhawan communicated to Mr. Chaman that the offer had been withdrawn, through a friend to the complainant. After hearing this, Mr. Chaman went to find the defendant, informing of his acceptance to the offer. Thereafter, the complainant brought an action for specific performance and breach of contract against the defendant. Whether the defendant's promise to keep the offer open until Friday morning was a binding contract between the parties and whether he was allowed to revoke this offer and sell to a third party?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[There was no binding contract to keep the offer open. The offer can be revoked before acceptance unless supported by separate consideration.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[The statement made by Mr. Dhawan amounts to a valid contract and he has committed a breach by selling the house before Friday.]]></text>
+      <feedback><text>Incorrect. The promise to keep the offer open is not binding without consideration.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[The statement made by Mr. Dhawan was nothing more than a promise; there was no binding contract formed. He had communicated an offer for buying his house to the complainant and this offer can be revoked any time before there Is acceptance.]]></text>
+      <feedback><text>Correct. There was no consideration for keeping the offer open; hence it could be revoked before acceptance.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The communication by a friend or other party that an offer had been withdrawn is invalid and could not be treated as if it came from the person himself.]]></text>
+      <feedback><text>Incorrect. The revocation was validly communicated.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Promises to keep an offer open until a certain time is a binding agreement as it is accepted by the other party.]]></text>
+      <feedback><text>Incorrect. Mere promises are not binding contracts without consideration.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Contract Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q77 -->
+  <question type="multichoice">
+    <name><text>Q077</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Factual Situation: MXM Co. is a building contractor who entered into an agreement with Star Heights Housing Association to refurbish a block of 27 flats. This contract was subject to a liquidated damages clause if they did not complete the contract on time. The MXM Co. engaged Hasan to do the carpentry work for an agreed price of 20,000. After six months of commencing the work, Hasan realised he had priced the job too low and would be unable to complete at the originally agreed price. He approached MXM Co. who recognised that the price was particularly low and was concerned about completing the contract on time. MXM Co. agreed to make additional payments to Hasan in return for his promise to carry out his existing obligations. MXM Co. agreed to pay Hasan an additional 575 per flat. Hasan continued work on the flats for a further period of 6 weeks but only received an additional 5,000. He then ran out of money and refused to continue unless payment was made. MXM Co. engaged another carpenter to complete the contract and refused to pay Hasan any further sums. Hasan sued for payment under the original agreement and the subsequent agreement. MXM Co. argued that the agreement to make additional payments was unenforceable as Hasan has not provided any consideration to make this agreement a valid contract. Decide.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Hasan conferred a practical benefit by helping MXM Co. avoid the liquidated damages, which constitutes valid consideration.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[The agreement to pay extra was unenforceable as Hasan had provided no consideration as he was already under an existing contractual duty to complete the work.]]></text>
+      <feedback><text>Incorrect. Avoiding penalty clause provides practical benefit and is valid consideration.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Consideration was provided by Hasan in the form of conferring a benefit on the MXM Co. by helping them to avoid the penalty clause. Therefore, MXM Co. was liable to make the extra payments promised.]]></text>
+      <feedback><text>Correct. The additional benefit to MXM Co. supports enforceability of the new promise.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[There was no consideration provided by Hasan as to avoid the penalty clause was the main object of the contract. Therefore, MXM Co. was not liable to make the extra payments promised.]]></text>
+      <feedback><text>Incorrect. Avoiding the penalty clause is a valid practical benefit and counts as consideration.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[MXM Co. is liable to pay compensation to Hasan as they have committed a breach of contract by employing another carpenter.]]></text>
+      <feedback><text>Incorrect. The issue turns on consideration, not breach due to hiring another contractor.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Contract Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q78 -->
+  <question type="multichoice">
+    <name><text>Q078</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Factual Situation: Bounville ran a sales promotion whereby if persons sent in 3 chocolate bar wrappers and a postal order for ₹100 they would be sent a record. Big Beats owned the copyright in one of the records offered and disputed the right of Bounville to offer the records and sought an injunction to prevent the sale of the records which normally retailed at ₹1,000. Under the Copyright Act, retailers are protected from breach of copyright if they gave notice to the copyright holders of the ordinary retail selling price and paid them 6.25% of this. Bournville gave notice stating the ordinary selling price was ₹100 and three chocolate bar wrappers. The issue is whether the chocolate bar wrappers formed part of the consideration?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The wrappers did form part of the consideration as they were required in exchange for the goods, even if they lacked intrinsic value.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[The wrappers were a mere token or condition of sale and not consideration.]]></text>
+      <feedback><text>Incorrect. They were part of what had to be given for the record, and so are consideration.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[The wrappers did form part of the consideration for the sale of records despite the fact that they had no intrinsic economic value in themselves.]]></text>
+      <feedback><text>Correct. The requirement to submit wrappers makes them part of the consideration.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The wrappers did not form part of the consideration for the sale of records as they had no intrinsic economic value in themselves.]]></text>
+      <feedback><text>Incorrect. Even items of no intrinsic value can be part of consideration if required in the bargain.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[There was consideration for the sale of records in the form of postal order for ₹100.]]></text>
+      <feedback><text>Incorrect. The wrappers were also required, so consideration was more than just the money.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Contract Law</text></tag>
+    </tags>
+  </question>
+  
+    <!-- Q79 -->
+  <question type="multichoice">
+    <name><text>Q079</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Directions (Q.79-Q.80): Apply the legal principles to the facts given below and select the most appropriate answer.<br><br>
+Legal Principles:<br>
+1. Offer is a proposal made by one person to another to do an act or abstain from doing it. The person who makes the offer is known as the promisor or offeror and the person to whom an offer is made is known as the promisee or the offeree.<br>
+2. A contract comes into being by the acceptance of an offer. When the person to whom the offer is made signifies his consent thereto, the proposal is said to be accepted and the parties are at consensus ad idem regarding the terms of the agreement.<br><br>
+79.Factual Situation: Tejas drove his car to a car park named Super Car Park (SCP). Outside the car park, the prices were displayed and a notice stated cars were parked at the owner's risk. An automatic ticket vending machine provided a ticket, a barrier was raised and Tejas parked his car. In small print on the ticket it was stated that the ticket is issued subject to conditions displayed on the premises. On a pillar opposite to the machine was a notice stating the owners would not be liable for any injuries occurring on their premises. Tejas met with an accident and sought damages from SCP, SCP denied any liability on the basis of the exclusion clause which was mentioned in the notice on the pillar. Whether there is an offer and acceptance of the exclusion clause?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The machine itself constituted the offer. The acceptance was by putting the money into the machine. The ticket was dispensed after the acceptance took place and therefore the exclusion clause was not incorporated into the contract.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[There is a valid contract between Tejas and SCP as SCP had taken reasonable steps to bring exclusion clause to Tejas's attention at the time of making the contract.]]></text>
+      <feedback><text>Incorrect. The clause was not communicated before contract formation.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The contract was made when Tejas received the ticket and parked his car. The ticket amounted to a contractual document which effectively referred to the terms which were clearly visible on the premises.]]></text>
+      <feedback><text>Incorrect. The exclusion clause appeared only after contract formation.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[The machine itself constituted the offer. The acceptance was by putting the money into the machine. The ticket was dispensed after the acceptance took place and therefore the exclusion clause was not incorporated into the contract.]]></text>
+      <feedback><text>Correct. The contract concluded before the exclusion clause was communicated.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The machine itself constituted the offer. The acceptance was by putting the money into the machine and acceptance of the offer mean acceptance of all the terms of the offer and hence SCP is not liable.]]></text>
+      <feedback><text>Incorrect. Exclusion clauses must be presented before or at the time of contract formation to be valid.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Contract Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q80 -->
+  <question type="multichoice">
+    <name><text>Q080</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Factual Situation: The plaintiffs offered to provide delivery of a machine tool for a price of ₹75,535. The delivery of the tool was set for 10 months, with the condition that orders only qualified as accepted once the terms in the quotation were met and prevailed over any of the buyer's terms. The buyer responded to the offer with their own terms and conditions, which did not include the 'price variation clause' listed in the seller's terms. This included a response section which required a signature and to be returned in order to accept the order. The sellers returned this response slip with a cover letter signaling that delivery would be in accordance with their original quotation. The tool was ready for delivery but the buyers could not accept delivery. for which the sellers increased the price which was in line with their initial terms. This was denied by the buyer and an action was brought by the seller to claim the cost of delay and interest. Was a contract made with or without a price variation clause?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The buyer's order was not an acceptance but a counter-offer, which the seller accepted by returning the signed section, thereby forming a contract on the buyer’s terms—without the price variation clause.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[The buyer's order was not an acceptance of the initial offer from the seller but a counter-offer which the sellers had accepted by returning the signature section of the buyer's letter and so the contract was completed without the price variation clause and therefore the seller could not increase the cost of the tool.]]></text>
+      <feedback><text>Correct. There was a counter-offer and the seller accepted it by conduct, thus binding themselves to those terms.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The buyer's order was an acceptance of the initial offer from the seller and so the contract was completed with the price variation clause and therefore the seller can increase the cost of the tool.]]></text>
+      <feedback><text>Incorrect. This overlooks the legal effect of the counter-offer.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The contract was made with price variation clause due to the condition that orders only qualified as accepted once the terms in the quotation were met and prevailed over any of the buyer's terms.]]></text>
+      <feedback><text>Incorrect. The acceptance was of a counter-offer, not the original quotation.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The contract between the buyer and seller is not valid as both the parties are not agreeing to the same thing in the same sense.]]></text>
+      <feedback><text>Incorrect. The contract was formed through conduct even if terms were varied.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Contract Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q81 -->
+  <question type="multichoice">
+    <name>
+      <text>Q081</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+Legal Principle:<br>
+1. 'Misrepresentation' means and includes the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true; any breach of duty which, without an intent to deceive, gains an advantage of the person committing it, or anyone claiming under him, by misleading another to his prejudice, or to the prejudice of anyone claiming under him; causing, however innocently, a party to an agreement, to make a mistake as to the substance of the thing which is the subject of the agreement.<br>
+2. The tort of negligent misstatement is defined as an inaccurate statement made honestly but carelessly usually in the form of advice given by a party with special skill/knowledge to a party that doesn't possess this skill or knowledge.<br><br>
+Factual Situation: The plaintiff, Mr. Madan, entered into a tenancy agreement with the defendant, Esso Petroleum, in respect of a petrol station owned by the latter. During the course of the negotiation of the agreement, 'expert' advisers employed by the defendant had provided an estimate of the sales which the petrol station could expect which was based on inaccurate information and consequently was significantly inflated. The value of the rent on the agreement had been calculated based on this inflated figure. As a result, it was impossible for the plaintiff to operate the petrol station profitably. Whether the plaintiff could have any action for negligent misrepresentation?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The defendant, having chosen to provide expert estimates, owed a duty of care to ensure accuracy. Their failure, even without intent to deceive, constitutes negligent misrepresentation.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[The contract could not be held void for misrepresentation as the defendants presented the inflated figure as an estimate rather than as a hard fact.]]></text>
+      <feedback><text>Incorrect. Even an estimate made negligently can constitute misrepresentation when relied upon by the other party.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The defendant has no obligation to disclose as the parties contracting should obtain the necessary information themselves without relying upon the other party.]]></text>
+      <feedback><text>Incorrect. When one party takes on the task of providing information, it assumes a duty of care to ensure its accuracy.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[As the defendant had taken it upon themselves to employ experts for the purpose of providing an estimate of sales, they owed a duty of care to the plaintiff to ensure that this was done on the basis of accurate information. Hence, the plaintiff can recover the losses which he had suffered as a result of the defendant's negligent misstatement.]]></text>
+      <feedback><text>Partially correct but incomplete—see option D for complete analysis.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Both (a) and (c)]]></text>
+      <feedback><text>Correct. While the statement was given as an estimate, presenting it negligently made the defendants liable under the tort of negligent misstatement.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Contract Law</text></tag>
+    </tags>
+  </question>
+  
+    <!-- Q82 -->
+  <question type="multichoice">
+    <name><text>Q082</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Directions (Q. 82-Q. 83): Apply the legal principles to the facts given below and select the most appropriate answer.<br><br>
+Legal Principles:<br>
+1. The Tort of Negligence is a legal wrong that is suffered by someone at the hands of another who fails to take proper care to avoid what a reasonable person would regard as a foreseeable risk.<br>
+2. The test of liability requires that the harm must be a reasonably foreseeable result of the defendant's conduct, a relationship of proximity must exist and it must be fair, just and reasonable to impose liability.<br>
+3. The claimant must prove that harm would not have occurred 'but for' the negligence of the defendant. The claimant must prove, on the balance of probabilities, that the defendant's breach of duty caused the harm.<br><br>
+Factual Situation: Amar worked for an iron works, Luxmi Mills & Co. Ltd. operating a remotely controlled crane. Amar galvanized items by dipping them into a large tank of molten metal. In order to protect its crane operators, whose controls were located just a few feet from the tank, Luxmi Mills erected a low wall around the tank and also provided a sheet of corrugated iron that crane operators placed between themselves and the wall. The operators were not facing the tank while operating the crane. Thus, they could not see the operation of the crane and therefore relied upon signals from another worker located farther from the tank. Many other galvanizers at the time situated their operators in enclosed, windowed spaces from which they could safely see and perform their work. Luxmi Mills eventually adopted that practice as well. One day, Amar was working on the crane. At one point, he either turned toward the tank or leaned out to see the worker giving him instructions, thereby placing his head outside the iron sheet. A spray of molten metal burned Amar's lip. When it failed to heal and began to ulcerate, he consulted a doctor who diagnosed the wound as cancerous. Amar ultimately died from the spread of cancer after three years. His widow sued Luxmi Mills for negligence. Whether the employers would be liable for the full extent of the burn and cancer that had developed as a result?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The employer is liable for all foreseeable consequences of their negligence. The injury from molten metal was foreseeable; the cancer, although unusual, does not preclude liability.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[The employers are liable for all of the consequences of their negligence; thus, liable for the employee's death. His predisposition to cancer did not matter, nor did the results of the injury. The question of liability was, whether the defendant could reasonable foresee the injury.]]></text>
+      <feedback><text>Correct. Once negligence is proven and the injury is foreseeable, the full extent of damage is recoverable.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The employers are not liable because the duty of care towards Amar was not breached by them as they were using the same practices which were used by other companies at that time.]]></text>
+      <feedback><text>Incorrect. Common practice does not excuse lack of reasonable safety measures.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The employers are not liable because Amar suffered injury due to his own negligence in stepping out of the protective shield.]]></text>
+      <feedback><text>Incorrect. The setup required operators to step out for signals — this was foreseeable.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[The employers are liable for burns and not for the death which happened due to Amar's cancerous condition which could not have been known to the employers.]]></text>
+      <feedback><text>Incorrect. Liability extends to all consequences flowing from the initial injury.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Tort Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q83 -->
+  <question type="multichoice">
+    <name><text>Q083</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Factual Situation: A 13-year-old boy fell from a tree. He went to a hospital where his hip was examined, but an incorrect diagnosis was made. After 5 days it was found that he was suffering from avascular necrosis. This was more advanced and serious than if it had been spotted straight away. Despite receiving treatment, it was determined that he had suffered from a muscular condition (avascular necrosis) which left the boy with a permanent disability and further left a strong probability that he would develop severe osteoarthritis later in life. The expert medical testimony indicated that had his fractured hip been identified on his initial hospital visit, there was a 25% chance of his condition having been successfully treated. He is claiming compensation for the negligence of hospital. Whether the hospital's negligence on his initial visit had caused his injury?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Even with only a 25% chance of success, the missed opportunity due to hospital negligence can be a valid basis for liability in tort.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[No, because there are very less chances that correct diagnosis and treatment would have prevented the disability from occurring.]]></text>
+      <feedback><text>Incorrect. Even a small chance can justify liability if it was lost due to negligence.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Where there are a number of possible causes, the claimant must still prove the defendant's breach of duty caused the harm or was a material contribution.]]></text>
+      <feedback><text>Partially correct, but does not directly resolve the issue of lost chance liability here.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Yes, because there are some chances that correct diagnosis and treatment would have prevented the disability from occurring.]]></text>
+      <feedback><text>Partially true but lacks the full context of legal causation and probability.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Both (a) and (b)]]></text>
+      <feedback><text>Correct. The hospital’s negligence deprived the claimant of a real and substantial chance of recovery.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Principle application</text></tag>
+      <tag><text>Tort Law</text></tag>
+    </tags>
+  </question>
+
+<!-- Q84 -->
+<question type="multichoice">
+  <name>
+    <text>Q084</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[
+Legal Principle:<br>
+Vicarious liability is when employers are held liable for the torts committed by their employees during the course of employment.<br><br>
+Factual Situation: New Vision School opened a boarding house (Shivaji House) for boys in the year 2000 for the students having behavioural and emotional difficulties. The claimants in the instant case had resided there between 2000 to 2003, being aged 12 to 15 during that time, under the care of a warden, who was in charge of maintaining discipline and the running of the house. The warden lived in the House, with his disabled wife, and together they were the only two members of staff in the House. His duties were ensuring order, in making sure the children went to bed, went to school, engaged in evening activities, and supervising other staff. It had been alleged by some of the boys that the warden had sexually abused them, including inappropriate advances and taking trips alone with them. A criminal investigation took place some ten years later, resulting in the warden being sentenced to seven years imprisonment. Following this, the victims brought an action for personal injury against the employers, alleging that they were vicariously liable. Whether the employers of the warden may be held vicariously liable for their employee's intentional sexual abuse of school boys placed under his care?
+    ]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[
+Yes, the employer can be held vicariously liable where there is a close connection between the duties assigned to the employee and the wrongful act committed. The abuse occurred in the course of the warden’s duties and under the context of his employment, giving rise to vicarious liability.
+    ]]></text>
+  </generalfeedback>
+  <defaultgrade>1.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="-25">
+    <text><![CDATA[No, vicarious liability could only arise when the employee is acting during the course of his employment and for his employer's benefit.]]></text>
+    <feedback><text>Incorrect. The abuse was carried out in the course of employment under the guise of assigned duties.</text></feedback>
+  </answer>
+  <answer fraction="-25">
+    <text><![CDATA[No, the employers cannot be made liable for acts which are not authorised by them.]]></text>
+    <feedback><text>Incorrect. Even unauthorised wrongful acts may attract vicarious liability if sufficiently connected to employment.</text></feedback>
+  </answer>
+  <answer fraction="100">
+    <text><![CDATA[Yes, there was a sufficient connection between the work that the warden was employed to do and the abuse that he committed to render it within the scope of employment. The abuse was committed at the time, premises and during the course of the warden's care of the boys.]]></text>
+    <feedback><text>Correct. The close connection test is satisfied, so vicarious liability applies.</text></feedback>
+  </answer>
+  <answer fraction="-25">
+    <text><![CDATA[Yes, because the employers should be made liable in cases of sexual abuse of differently abled children.]]></text>
+    <feedback><text>Incorrect. Liability depends on legal proximity and connection to employment, not moral grounds alone.</text></feedback>
+  </answer>
+  <tags>
+    <tag><text>AILET</text></tag>
+    <tag><text>AILET 2018</text></tag>
+    <tag><text>LR</text></tag>
+    <tag><text>Principle application</text></tag>
+    <tag><text>Tort Law</text></tag>
+  </tags>
+</question>
+
+  <!-- Q85 -->
+  <question type="multichoice">
+    <name><text>Q085</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+In 2017, Special Leave Petition for re-investigation in the Mahatma Gandhi murder case was filed by:
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Pankaj K. Phadnis filed the SLP seeking re-investigation into the assassination of Mahatma Gandhi.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Amrendra Sharan]]></text>
+      <feedback><text>Incorrect. He was appointed as amicus curiae in the case but did not file the petition.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Pankaj K. Phadnis]]></text>
+      <feedback><text>Correct. He filed the SLP seeking fresh investigation.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Tushar Gandhi]]></text>
+      <feedback><text>Incorrect. He opposed the reopening of the case.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Raju Ramachandran]]></text>
+      <feedback><text>Incorrect. He was not involved in the petition for reinvestigation.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q86 -->
+  <question type="multichoice">
+    <name><text>Q086</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Who is the first Indian woman to be elected as the Judge of the International Tribunal for the Law of Sea?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Dr. Neeru Chadha became the first Indian woman judge elected to ITLOS in 2017.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[Dr. Neeru Chadha]]></text>
+      <feedback><text>Correct. She was elected in 2017 to ITLOS.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Justice Gita Mittal]]></text>
+      <feedback><text>Incorrect. She served in Indian High Courts but not in ITLOS.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Vijaya Lakshmi Pandit]]></text>
+      <feedback><text>Incorrect. She was a diplomat, not a judge of ITLOS.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Dr. Menaka Guruswamy]]></text>
+      <feedback><text>Incorrect. She is a prominent lawyer but not elected to ITLOS.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+  
+    <!-- Q87 -->
+  <question type="multichoice">
+    <name><text>Q087</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Which of the following river(s) is/are declared as a legal entity by an Act of Parliament?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Whanganui River in New Zealand was declared a legal entity under a special Act of Parliament.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Ganga]]></text>
+      <feedback><text>Incorrect. It was declared a living entity by an Indian court, not by Act of Parliament.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Whanganui]]></text>
+      <feedback><text>Correct. Whanganui River was granted legal personhood by law in New Zealand.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Yamuna]]></text>
+      <feedback><text>Incorrect. Similar to Ganga, Yamuna was recognized by court order, not by law.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[All of the above]]></text>
+      <feedback><text>Incorrect. Only Whanganui was declared a legal person via Act of Parliament.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>International Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q88 -->
+  <question type="multichoice">
+    <name><text>Q088</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Which of the following lawyers approached the Supreme Court challenging the existing system of 'designation of Senior Advocates'?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Indira Jaisingh filed the petition seeking more transparent criteria for designating Senior Advocates in the Supreme Court.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Meenakashi Lekhi]]></text>
+      <feedback><text>Incorrect. She has not challenged the designation process.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Vrinda Grover]]></text>
+      <feedback><text>Incorrect. She did not initiate the legal challenge.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Indira Jaisingh]]></text>
+      <feedback><text>Correct. She moved the court against the opaque process.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Meenakshi Arora]]></text>
+      <feedback><text>Incorrect. She was not the petitioner in this matter.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q89 -->
+  <question type="multichoice">
+    <name><text>Q089</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+'Drunken Driving' is punishable under___
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Drunken driving is regulated and punishable under the Motor Vehicles Act, 1988.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Indian Penal Code]]></text>
+      <feedback><text>Incorrect. The IPC applies to criminal offenses but drunken driving is covered under the MV Act.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Motor Vehicles Act]]></text>
+      <feedback><text>Correct. It governs traffic violations including drunk driving.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Road Safety Standards Act]]></text>
+      <feedback><text>Incorrect. This is not a valid statute for such punishment.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[National Highways Act]]></text>
+      <feedback><text>Incorrect. This deals with highway administration, not driving offences.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Law</text></tag>
+    </tags>
+  </question>
+  
+    <!-- Q90 -->
+  <question type="multichoice">
+    <name><text>Q090</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+The Supreme Court on 12 December 2017, had directed that_____ special criminal courts, to be set up to exclusively deal with cases involving_____, should start functioning from March 1, 2018.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The Supreme Court directed the establishment of 12 special criminal courts for expeditious trials of MPs and MLAs facing criminal charges.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[12, MPs/MLAS]]></text>
+      <feedback><text>Correct. This was to ensure speedy trials of elected representatives with pending criminal cases.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[12, Rape Accused]]></text>
+      <feedback><text>Incorrect. These courts were not for rape cases specifically.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[24, child-sexual abuser]]></text>
+      <feedback><text>Incorrect. This number and subject matter is not what the 2017 direction covered.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[24, Terrorism related offences]]></text>
+      <feedback><text>Incorrect. The direction was related to political figures, not terrorism cases.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Judicial Decisions</text></tag>
+      <tag><text>Criminal Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q91 -->
+  <question type="multichoice">
+    <name><text>Q091</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Which State Government, in India, has recently sanctioned stipend for junior lawyers practicing in the courts?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Kerala became the first state to sanction stipend for junior lawyers to support them in their early years of legal practice.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Delhi]]></text>
+      <feedback><text>Incorrect. Delhi has not taken this initiative.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Punjab]]></text>
+      <feedback><text>Incorrect. This step was initiated by the Kerala Government.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Kerala]]></text>
+      <feedback><text>Correct. The stipend was aimed at supporting junior advocates in Kerala.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Maharashtra]]></text>
+      <feedback><text>Incorrect. No such scheme was launched by Maharashtra.</text></feedback>
+   </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+      <tag><text>Labour Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q92 -->
+  <question type="multichoice">
+    <name><text>Q092</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+From the field of Law and Justice, who is awarded the Nari Shakti Puraskar 2018 on the International Women's Day?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Justice Geeta Mittal received the Nari Shakti Puraskar in recognition of her contribution to the legal field and women empowerment.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[Geeta Mittal]]></text>
+      <feedback><text>Correct. She was the recipient for her pioneering work in law and gender justice.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Sudha Bharadwaj]]></text>
+      <feedback><text>Incorrect. Sudha Bharadwaj was not the 2018 awardee.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Flavia Agnes]]></text>
+      <feedback><text>Incorrect. Though prominent, she did not win in 2018.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Indira Jaisingh]]></text>
+      <feedback><text>Incorrect. She has not been awarded this recognition in 2018.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q93 -->
+  <question type="multichoice">
+    <name><text>Q093</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Recently, the Supreme Court allowed________euthanasia and right to give advance medical directives_________ stating that human beings have the right to die with dignity as part of fundamental right to life.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The Supreme Court recognized passive euthanasia and the validity of living wills to uphold the dignity of life.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[active, dying will]]></text>
+      <feedback><text>Incorrect. Active euthanasia is still not permitted in India.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[passive, living will]]></text>
+      <feedback><text>Correct. Passive euthanasia and living wills were allowed by the Supreme Court.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[active, living will]]></text>
+      <feedback><text>Incorrect. Active euthanasia was not approved.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[passive, dying will]]></text>
+      <feedback><text>Incorrect. The recognized legal instrument is a living will.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q94 -->
+  <question type="multichoice">
+    <name><text>Q094</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Local self-governance is an example of
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Democratic decentralisation refers to the process of delegating powers from the central or state government to local self-governing institutions.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[federalism]]></text>
+      <feedback><text>Incorrect. Federalism involves distribution of power between centre and states.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[democratic decentralisation]]></text>
+      <feedback><text>Correct. Local self-government exemplifies democratic decentralisation.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[direct democracy]]></text>
+      <feedback><text>Incorrect. Direct democracy involves citizens making laws directly, not through representatives.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[administrative delegation]]></text>
+      <feedback><text>Incorrect. This is a broader bureaucratic concept, not specific to local governance.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+  
+  
+  <!-- Q95 -->
+  <question type="multichoice">
+    <name><text>Q095</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+The institutional infrastructure under the Insolvency and Bankruptcy Code, 2016, rests on certain pillars:<br>
+I. Insolvency Professionals<br>
+II. Information Utilities<br>
+III. Adjudication<br>
+IV. The Insolvency and Bankruptcy Board of India<br>
+V. Asset Construction Companies<br><br>
+Correct code is:
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The correct answer is I, II, III and IV. Asset Reconstruction Companies are not part of the core institutional framework under the IBC.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[I, II and III]]></text>
+      <feedback><text>Incorrect. The IBBI is also a crucial pillar.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[II, III and IV]]></text>
+      <feedback><text>Incorrect. Insolvency Professionals are essential to the process.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[I, II, III and IV]]></text>
+      <feedback><text>Correct. These are the four institutional pillars of the IBC framework.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[All of the above]]></text>
+      <feedback><text>Incorrect. Asset Construction Companies are not one of the four pillars.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Statutory law</text></tag>
+      <tag><text>Economic Law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q96 -->
+  <question type="multichoice">
+    <name><text>Q096</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+In 2017, the Supreme Court held that right to privacy is protected under Article 21 of the Constitution of India in the context of:
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The correct context was the Indian Biometric Identification Scheme, i.e., Aadhaar.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[State Surveillance]]></text>
+      <feedback><text>Incorrect. Although relevant, the landmark decision arose in the Aadhaar context.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Power of search & seizure]]></text>
+      <feedback><text>Incorrect. This was not the central issue in the privacy ruling.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Homosexuality]]></text>
+      <feedback><text>Incorrect. Homosexuality was dealt with under Section 377 later, not in this case.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Indian Biometric Identification Scheme]]></text>
+      <feedback><text>Correct. The Aadhaar scheme triggered this constitutional review.</text></feedback>
+     </answer>
+  <tags>
+    <tag><text>AILET</text></tag>
+    <tag><text>AILET 2018</text></tag>
+    <tag><text>LR</text></tag>
+    <tag><text>Constitutional Law</text></tag>
+  </tags>
+</question>
+
+  <!-- Q97 -->
+  <question type="multichoice">
+    <name><text>Q097</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+The age of consent for sexual intercourse between a husband and wife has been made ____ years by the Supreme Court of India.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The Supreme Court in 2017 ruled that marital rape of a girl below 18 years is a punishable offence, effectively raising the age of consent within marriage to 18.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[18, 16]]></text>
+      <feedback><text>Incorrect. The earlier age was 15; the court raised it to 18.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[16, 15]]></text>
+      <feedback><text>Incorrect. The court made 18 the minimum legal age.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[21, 18]]></text>
+      <feedback><text>Incorrect. The law deals with consent for intercourse, not marriageable age.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[18, 15]]></text>
+      <feedback><text>Correct. The court raised the minimum age of consent in marriage to 18 years.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Criminal Law</text></tag>
+      <tag><text>Judicial Decisions</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q98 -->
+  <question type="multichoice">
+    <name><text>Q098</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+An accused is entitled to statutory bail (default bail) if the police fail to file the charge-sheet within ____ of his arrest for the offence punishable with imprisonment up to 10 years.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[As per Section 167(2) of the CrPC, the accused is entitled to bail if the charge-sheet is not filed within 60 days where the offence is punishable with imprisonment up to 10 years.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[30 days]]></text>
+      <feedback><text>Incorrect. This period is too short under the CrPC provisions.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[60 days]]></text>
+      <feedback><text>Correct. The statutory limit for such offences is 60 days.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[90 days]]></text>
+      <feedback><text>Incorrect. 90 days is for more serious offences (above 10 years).</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[180 days]]></text>
+      <feedback><text>Incorrect. This is for specific cases under special statutes like UAPA.</text></feedback>
+ </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Criminal Law</text></tag>
+      <tag><text>Statutory law</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q99 -->
+  <question type="multichoice">
+    <name><text>Q099</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Nelson Mandela Rules deal with:
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The Nelson Mandela Rules refer to the UN Standard Minimum Rules for the Treatment of Prisoners, revised and adopted in 2015.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Apartheid]]></text>
+      <feedback><text>Incorrect. These rules are named in his honour, but concern prison reform.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Truth and Reconciliation]]></text>
+      <feedback><text>Incorrect. Those refer to South Africa’s post-apartheid reconciliation efforts.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Prison Management]]></text>
+      <feedback><text>Correct. The Nelson Mandela Rules relate to the humane treatment of prisoners.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Global Peace-making]]></text>
+      <feedback><text>Incorrect. While Mandela advocated peace, these rules deal with prisoner rights.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>International Law</text></tag>
+      <tag><text>Reports</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q100 -->
+  <question type="multichoice">
+    <name><text>Q100</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+The Lok Sabha passed the Muslim Women (Protection of Rights on Marriages) Bill 2017. Which of the following are true about it?<br>
+I. It declares instant triple talaq illegal and criminalizes it.<br>
+II. It makes declaration of talaq a bailable offence.<br>
+III. A husband declaring talaq can be imprisoned for up to two years along with a fine.<br>
+IV. It entitles Muslim woman against whom triple talaq has been declared to seek subsistence allowance from her husband for herself and for her dependent children.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Only statements I and IV are correct. The declaration of triple talaq is a non-bailable offence under the 2017 Bill.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[I and IV]]></text>
+      <feedback><text>Correct. These reflect the essential protections and criminalization elements in the Bill.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[I, III and IV]]></text>
+      <feedback><text>Incorrect. It is a non-bailable offence, contrary to II.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[I, II and IV]]></text>
+      <feedback><text>Incorrect. Statement II is factually incorrect.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[All of the above]]></text>
+      <feedback><text>Incorrect. Triple talaq is not bailable; hence all statements cannot be accepted.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Statutory law</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+  
+   <!-- Q101 -->
+  <question type="multichoice">
+    <name><text>Q101</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+In August 2017, the Union Ministry of Law & Justice in association with the National Legal Service Authority (NALSA) launched 'Tele-Law' scheme in ______ to provide legal aid services to marginalised communities and citizens living in rural areas through digital technology.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Tele-Law scheme was launched in Bihar to provide legal aid to rural and marginalised populations via digital means.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Andhra Pradesh]]></text>
+      <feedback><text>Incorrect. The pilot project was not launched in Andhra Pradesh.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Bihar]]></text>
+      <feedback><text>Correct. Bihar was the launch state for the Tele-Law scheme.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Madhya Pradesh]]></text>
+      <feedback><text>Incorrect. The scheme began in Bihar, not MP.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Rajasthan]]></text>
+      <feedback><text>Incorrect. The first implementation was in Bihar.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q102 -->
+  <question type="multichoice">
+    <name><text>Q102</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+In March 2018, the Supreme Court of India has held that there cannot be a stay of more than ______ on trial of ______.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The Supreme Court ruled that stay on trial proceedings in both civil and criminal cases should not exceed 6 months.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[6 months, civil and criminal cases]]></text>
+      <feedback><text>Correct. The SC specified this limit for trial delays.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[6 months, criminal cases]]></text>
+      <feedback><text>Incorrect. The limitation applies to both civil and criminal trials.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[3 months, rape cases]]></text>
+      <feedback><text>Incorrect. The rule is not specific to rape cases.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[3 months, civil and criminal cases]]></text>
+      <feedback><text>Incorrect. The correct maximum period is 6 months.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+  <!-- Q103 -->
+  <question type="multichoice">
+    <name><text>Q103</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Which country has withdrawn from the International Criminal Court (ICC) citing reasons of international bias in March, 2018?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The Philippines formally notified the United Nations of its withdrawal from the ICC in 2018, citing alleged bias.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[Burundi]]></text>
+      <feedback><text>Incorrect. Though Burundi was the first, the question pertains to 2018 and Philippines.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Russia]]></text>
+      <feedback><text>Incorrect. Russia signed but never ratified the ICC treaty.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[South Africa]]></text>
+      <feedback><text>Incorrect. South Africa attempted withdrawal but reversed it.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[Philippines]]></text>
+      <feedback><text>Correct. Philippines withdrew citing political bias of the ICC.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q104 -->
+  <question type="multichoice">
+    <name><text>Q104</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Regarding foreign law firms, the Supreme Court held:
+I. That foreign law firms can set up offices in India.
+II. Foreign lawyers can practice in India.
+III. Foreign lawyers can visit India for a temporary period on a fly in and fly out basis.
+IV. Foreign lawyers can give advice to their clients on Indian laws.
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The SC allowed foreign lawyers to visit India temporarily for specific purposes, but they cannot set up offices or practice Indian law.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text><![CDATA[I, II, III]]></text>
+      <feedback><text>Incorrect. The SC did not allow setting up offices or practicing Indian law.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[II, IV]]></text>
+      <feedback><text>Incorrect. Foreign lawyers cannot practice Indian law or advise on it.</text></feedback>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[III]]></text>
+      <feedback><text>Correct. Only fly-in, fly-out visits were permitted by the SC.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[III, IV]]></text>
+      <feedback><text>Incorrect. Only fly-in/fly-out was allowed, not giving advice on Indian law.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+  <!-- Q105 -->
+  <question type="multichoice">
+    <name><text>Q105</text></name>
+    <questiontext format="html">
+      <text><![CDATA[
+Which is the world's first country to enact a law under which companies and government agencies that employ at least 25 people will be fined if they can't prove they pay men and women equally?
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Iceland became the first country to make it mandatory for employers to prove pay equality or face fines.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.2500000</penalty>
+    <hidden>0</hidden>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[Iceland]]></text>
+      <feedback><text>Correct. Iceland pioneered this equality legislation.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[India]]></text>
+      <feedback><text>Incorrect. India has not enacted such specific pay equality enforcement.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[Sweden]]></text>
+      <feedback><text>Incorrect. Sweden supports gender equality but was not the first to enact this law.</text></feedback>
+    </answer>
+    <answer fraction="-25">
+      <text><![CDATA[France]]></text>
+      <feedback><text>Incorrect. France has strong equality laws but did not lead with this legislation.</text></feedback>
+    </answer>
+    <tags>
+      <tag><text>AILET</text></tag>
+      <tag><text>AILET 2018</text></tag>
+      <tag><text>LR</text></tag>
+      <tag><text>Legal News</text></tag>
+    </tags>
+  </question>
+
+</quiz>
